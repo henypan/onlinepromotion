@@ -1,5 +1,5 @@
 Online website promotion.
-Project has been push to the production via Heroku.
+Project has been pushed to the production via Heroku.
 Try it: 
 http://hidden-fortress-8834.herokuapp.com/
 
