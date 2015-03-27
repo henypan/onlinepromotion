@@ -1,4 +1,4 @@
-Online website promotion. It is designed to promote website using credits offered by merchandise. 
+Online website promotion. It is designed to launch website using credits offered by merchandise. 
 
 Project has been pushed to the production via Heroku.
 Try it: 
