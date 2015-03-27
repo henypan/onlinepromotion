@@ -78,13 +78,10 @@ USE_L10N = True
 
 USE_TZ = True
 
-#SHARE_URL = "http://launchwithcode.com/?ref="
-SHARE_URL = "http://hidden-fortress-8834.herokuapp.com/?ref="
+SHARE_URL = "http://http://hidden-fortress-8834.herokuapp.com/?ref="
 
 TEMPLATE_DIRS = (
     os.path.join(BASE_DIR, 'templates')
-    #BASE_DIR + "/templates/",
-    #'/Users/jmitch/Desktop/lwc/src/templates/',
 )
 
 # Static files (CSS, JavaScript, Images)
@@ -92,20 +89,15 @@ TEMPLATE_DIRS = (
 
 STATIC_URL = '/static/'
 
-#STATIC_ROOT = '/Users/jmitch/desktop/lwc/src/static/static_root/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static', 'static_root')
 
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static', 'static_dirs'),
-    #'/Users/jmitch/desktop/lwc/src/static/static_dirs/',
-    # '/Users/jmitch/desktop/lwc/src/static/static_dirs/',
-    # '/Users/jmitch/desktop/lwc/src/static/static_dirs/',
-    # '/Users/jmitch/desktop/lwc/src/static/static_dirs/',
 )
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static', 'media')
 
-MEDIA_URL = '/media/'
+MEIDA_URL = '/media/'
 
 
 
