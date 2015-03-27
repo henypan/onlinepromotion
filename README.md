@@ -1,4 +1,5 @@
-Online website promotion.
+Online website promotion. It is designed to promote website using credits offered by merchandise. 
+
 Project has been pushed to the production via Heroku.
 Try it: 
 http://hidden-fortress-8834.herokuapp.com/
